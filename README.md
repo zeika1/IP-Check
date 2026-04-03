@@ -16,3 +16,9 @@
 1. **Install Dependencies:**
    ```bash
    pip install pandas requests# IP-Check
+## 💻 Platform Options
+
+| Platform | File | Usage |
+| :--- | :--- | :--- |
+| **Linux / CLI** | `ipcheck.py` | `python3 ipcheck.py data.csv` |
+| **Windows / GUI** | `ipcheck_win.py` | Double-click or `python ipcheck_win.py` (pops up a file picker) |
