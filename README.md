@@ -21,4 +21,4 @@
 | Platform | File | Usage |
 | :--- | :--- | :--- |
 | **Linux / CLI** | `ipcheck.py` | `python3 ipcheck.py data.csv` |
-| **Windows / GUI** | `ipcheck_win.py` | Double-click or `python ipcheck_win.py` (pops up a file picker) |
+| **Windows / GUI** | `ipcheck_win.py` | Double-click or `python ipcheck.py` (pops up a file picker) |
